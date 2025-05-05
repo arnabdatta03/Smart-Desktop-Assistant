@@ -1,0 +1,14 @@
+import os
+from pipes import quote
+import re
+import sqlite3
+import struct
+import subprocess
+import time
+import webbrowser
+from playsound import playsound
+import eel
+import pyaudio
+import pyautogui
+from engine.command import speak
+from engine.config import ASSISTANT_NAME
