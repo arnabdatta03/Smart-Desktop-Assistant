@@ -53,7 +53,7 @@ A Smart Desktop Assistant For do all work in computer to make fast and easily ha
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/arnabdatta03/jarvis-desktop-assistant.git
+git clone https://github.com/arnabdatta03/Smart-Desktop-Assistant.git
 cd jarvis-desktop-assistant
 \`\`\`
 
