@@ -112,7 +112,8 @@ Developed by **Arnab Datta**
 
 # ✨ Contributors 
 - Contributers are allow into this project
-Make pull Request to add more features 
+Make pull Request to add more features
+-- Please Don`t add anythings with main barnch. 🙏
 
 ---
 
